@@ -1,3 +1,4 @@
+**Head over to [NSEDownload](https://github.com/NSEDownload/NSEDownload) for stable and updated versions.** <br>
 Python Library to get publicly available data on NSE website ie. stock quotes, historical data, live indices.
 
 # Libraries Required #
